@@ -1,2 +1,2 @@
 # Hackingthefestofoctober
-Hacktoberfest repo
+Hacktoberfest repository
