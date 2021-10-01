@@ -1,2 +1,2 @@
-# Hackingthefestofoctober
+# HackingtheHacktoberfest
 Hacktoberfest repository
